@@ -1,0 +1,49 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "veritabani.txt",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyPkkz69t0EW1dbgtHu10yyP",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bahtinur-sungur/hu-bby162-2022/blob/main/veritabani.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "olağanüstü bir gece | stefan zweig | iş bankası kültür yayınları | 2015\n",
+        "\n",
+        "beyaz zambaklar ülkesinde | grigory petrov | can yayınları | 2021\n",
+        "\n",
+        "kırmızı saçlı kadın | orhan pamuk | yapı kredi yayınları | 2016\n",
+        "\n",
+        "masumiyet müzesi | orhan pamuk | yapı kredi yayınları | 2013\n",
+        "\n",
+        "fakat müzeyyen bu derin bir tutku | ilhami algör | iletişim yayıncılık | 2014"
+      ],
+      "metadata": {
+        "id": "9vRzFWqKUaQ_"
+      }
+    }
+  ]
+}
